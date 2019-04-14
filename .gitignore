@@ -328,3 +328,6 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+/Mk0.Tools.SingleInstance/Mk0.Tools.SingleInstance.nuspec
+/Mk0.Tools.SingleInstance/nuget.exe
+/Mk0.Tools.SingleInstance/publish-nuget.bat
